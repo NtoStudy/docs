@@ -1,18 +1,18 @@
 ### 关于
 
 <div align="center">
-   <h1>Hi there, I'm <a href="#">一勺</a> </h1>
+   <h1>Hi there, I'm <a href="#">fovik</a> </h1>
 </div>
 
 <div align="center">
-  <h3>🙎 一勺 | 💻 开发爱好者 | 🛸 Jiang Su , China </h3>
+  <h3>🙎 fovik | 💻 开发爱好者 | 🛸 Jiang Xi , China </h3>
 </div>
 
 ---
 
 ### 近期动态
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ZRMYDYCG&theme=github)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ntostudy&theme=github)
 
 
 ---
@@ -25,7 +25,7 @@
 
 ### 技术栈
 
-![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,next,docker,nest,nodejs,git,github)
+![My Skills](https://skillicons.dev/icons?i=js,vue,react,next,nodejs,java,mysql,redis,docker,git,github)
 
 ---
 

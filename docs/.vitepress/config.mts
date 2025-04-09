@@ -16,15 +16,11 @@ export default defineConfig({
     sidebar,
     search,
     socialLinks: [
-      { icon: "github", link: "https://github.com/ZRMYDYCG" },
-      { icon: "gitee", link: "https://gitee.com/zrblue" },
+      { icon: "github", link: "https://github.com/NtoStudy" },
+      { icon: "gitee", link: "https://gitee.com/ntostudy" },
       { icon: "twitter", link: "#" },
       { icon: "gmail", link: "#" },
     ],
-    editLink: {
-      pattern: "https://github.com/ZRMYDYCG/docs/edit/master/docs/:path",
-      text: "在 GitHub 上编辑此页面",
-    },
     footer: {
       message: "基于 MIT 许可发布",
       copyright: `版权所有 © 2024-${new Date().getFullYear()} 池边哲学`,

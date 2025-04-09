@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "yishao's docs"
+  name: "fovik's docs"
   text: 小小池塘
   tagline: "\n一个好的设计产品是迭代出来的，好的工程师也是持续不断的学习和总结。"
   image:
