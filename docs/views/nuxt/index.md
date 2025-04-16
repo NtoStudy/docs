@@ -20,7 +20,7 @@ pnpm install
 pnpm dev
 ```
 
-打开本地链接 http://localhost:3000/ 就可以开始访问了。
+打开本地链接 localhost:3000/ 就可以开始访问了。
 
 ## 🍃目录结构
 
