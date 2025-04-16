@@ -51,6 +51,10 @@ const nav = [
         text: "react 🚀",
         link: "/views/react/index.md",
       },
+      {
+        text: "Nuxt 🚀",
+        link: "/views/nuxt/index.md",
+      }
     ],
   },
 ];
