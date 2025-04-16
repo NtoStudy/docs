@@ -60,5 +60,4 @@ export default defineConfig({
       dark: "one-dark-pro",
     },
   },
-  outDir: "../dist",
 });
